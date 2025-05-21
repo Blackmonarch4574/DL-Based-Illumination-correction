@@ -1,4 +1,4 @@
-# DL-Based-Illumination-correction
+#  IlluC-Net: An attention-guided U-Net for illumination correction in dermatological macro-photograph
 Deep Learning Based Illumination correction For Dermatological Macro images
 # Illumination Correction using UNA Model
 
@@ -20,10 +20,6 @@ The UNA model combines the strengths of:
 - **Attention Mechanism**: to focus on important spatial regions
 
 This allows the model to correct the uneven illumination present in the dermatological macro images and produce even illumination. 
-
-### Model Diagram
-
-![UNA Model Architecture](./model.png)
 
 ---
 
